@@ -1,6 +1,9 @@
 # Touchbell
 A webapp that can be used as a notification system. Build to be used on a tablet at an entrance.
 
+#I developed the option to add RestAPI call. Its now in production and in use Inheaden internal chat client mattermost and a message is to a channel when someone presses the bell at entry door of the HUB31, Hilperstrasse building. 
+https://github.com/moritzmair/touchbell/commit/425224233642c81dfb035ef8583da2da6848440a
+
 # Setup local enviroment
 * install rails and mysql
 * copy `/config/database.example.yml` to `/config/database.yml` and change credentials if necessary
