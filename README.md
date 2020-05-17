@@ -1,7 +1,7 @@
 # Touchbell
 A webapp that can be used as a notification system. Build to be used on a tablet at an entrance.
 
-# I developed the option to add RestAPI call. 
+# I developed the option to add POST Request call. 
 Its now in production and in use. When bell pressed a message is sent to mattermost's (messaging app) channel from HUB31 bot. 
 https://github.com/moritzmair/touchbell/commit/425224233642c81dfb035ef8583da2da6848440a
 
